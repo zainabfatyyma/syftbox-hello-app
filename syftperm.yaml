@@ -1,0 +1,7 @@
+name: syftbox-hello-app
+version: 0.1.0
+
+permissions:
+  - read
+  - write
+  - network
